@@ -1,0 +1,16 @@
+name: Eleventy Build to Gh-pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🍾 Building your gh-pages"
+      - name: Build and deploy
+        run: |
+          npm run deploy
+      - run: echo "👌 This job's status is ${{ job.status }}"

@@ -5,7 +5,7 @@
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
-    "deploy": "node github-deploy.js",
+    "deploy": "eleventy && node github-deploy.js",
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
     "debug": "DEBUG=* eleventy"
