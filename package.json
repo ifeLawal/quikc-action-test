@@ -5,7 +5,7 @@
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
-    "deploy": "eleventy NODE_ENV=product npx eleventy --pathprefix 'quikc-action-test' && node github-deploy.js",
+    "deploy": "NODE_ENV=product npx eleventy --pathprefix 'quikc-action-test' && node github-deploy.js",
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
     "debug": "DEBUG=* eleventy"
