@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.com/posts/firstpost/</loc>
+    <loc>https://example.com/quikc-action-test/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/secondpost/</loc>
+    <loc>https://example.com/quikc-action-test/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/thirdpost/</loc>
+    <loc>https://example.com/quikc-action-test/posts/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/fourthpost/</loc>
+    <loc>https://example.com/quikc-action-test/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://example.com/quikc-action-test/about/</loc>
     <lastmod>2021-06-15</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://example.com/quikc-action-test/posts/</loc>
     <lastmod>2021-06-15</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://example.com/quikc-action-test/</loc>
     <lastmod>2021-06-15</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/page-list/</loc>
+    <loc>https://example.com/quikc-action-test/page-list/</loc>
     <lastmod>2021-06-15</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://example.com/quikc-action-test/tags/</loc>
     <lastmod>2021-06-15</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/another-tag/</loc>
+    <loc>https://example.com/quikc-action-test/tags/another-tag/</loc>
     <lastmod>2021-06-15</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/second-tag/</loc>
+    <loc>https://example.com/quikc-action-test/tags/second-tag/</loc>
     <lastmod>2021-06-15</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/number-2/</loc>
+    <loc>https://example.com/quikc-action-test/tags/number-2/</loc>
     <lastmod>2021-06-15</lastmod>
   </url>
 </urlset>
